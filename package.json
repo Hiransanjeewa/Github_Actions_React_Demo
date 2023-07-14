@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage":"https://hiransanjeewa.github.io/Github_Actions_React_Demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
